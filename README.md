@@ -1,107 +1,82 @@
-# Ubaid Ullah
+<p align="center">
+  <a href="https://my-portfolio-website-plum-theta.vercel.app/">
+    <img src="./assets/profile-header.svg" alt="Ubaid Ullah — Full-Stack Developer building interfaces, APIs, data workflows, and practical AI features" width="100%" />
+  </a>
+</p>
 
-Full-Stack Developer building reliable web products and practical AI-enabled applications.
+<p align="center">
+  <a href="https://my-portfolio-website-plum-theta.vercel.app/"><strong>Portfolio</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/ubaid-ullah-/"><strong>LinkedIn</strong></a>
+  &nbsp;·&nbsp;
+  <a href="mailto:ubaidullah3048@gmail.com"><strong>Email</strong></a>
+</p>
 
-I work across modern frontend interfaces, backend APIs, database workflows, and complete product features using React, TypeScript, Next.js, Python, FastAPI, and PostgreSQL.
+## Full-stack product engineering
 
-## What I Work With
+I develop end-to-end web applications using **React, TypeScript, Next.js, Python, FastAPI, and PostgreSQL**. My work spans product interfaces, validated REST APIs, database workflows, and AI-enabled applications with embeddings, vector search, and semantic verification.
 
-### Frontend
+I focus on complete, maintainable workflows—not isolated screens or technology lists.
 
-- React
-- TypeScript
-- Next.js
-- JavaScript
-- HTML
-- CSS
-- Tailwind CSS
+## Experience snapshot
 
-### Backend
+| Role | Product work | Core technologies |
+| --- | --- | --- |
+| **Full-Stack Developer · BitNorm** | Job discovery, filtering, candidate preferences, saved jobs, recommendation requests, API validation, and error handling | React, TypeScript, Python, FastAPI, PostgreSQL |
+| **Front-End Developer · StuDev** | Responsive interfaces, reusable forms and tables, REST integration, validation, and request states | React, TypeScript, Tailwind CSS, REST APIs |
 
-- Python
-- FastAPI
-- REST APIs
+## Selected engineering work
 
-### Data
+### 01 · Adaptive AI Learning Companion
 
-- PostgreSQL
-- SQL
-- pgvector
+A full-stack thesis prototype that turns uploaded lecture material into summaries, flashcards, and quizzes. Generated segments are compared with semantically similar source chunks for evidence review, while quiz history supports document-level mastery and review prioritisation.
 
-### AI Applications
+`Next.js` `React` `JavaScript` `Python` `FastAPI` `PostgreSQL` `pgvector` `Gemini`
 
-- Embeddings
-- Vector search
-- Semantic source verification
-- AI API integration
+[View case study](https://my-portfolio-website-plum-theta.vercel.app/work/adaptive-ai-learning-companion) · [View source](https://github.com/ubaidullah-ctrl/adaptive-learning-companion)
 
-### Tools
+### 02 · AI-Assisted Job Board
 
-- Git
-- GitHub
-- Postman
-- Docker
-- AWS fundamentals
+An anonymised professional case study covering job discovery, filters, candidate preferences, saved jobs, AI-assisted recommendations, and the React/FastAPI workflows behind them. Private implementation details remain confidential.
 
-## Selected Work
+`React` `TypeScript` `Python` `FastAPI` `PostgreSQL` `REST APIs`
 
-### Adaptive AI Learning Companion
+[View case study](https://my-portfolio-website-plum-theta.vercel.app/work/ai-assisted-job-board)
 
-A full-stack thesis prototype that turns uploaded documents into summaries, flashcards, and quizzes, then compares generated segments with semantically similar source chunks for review. Quiz history supports document-level mastery and review prioritisation.
+### 03 · Full-Stack E-commerce Platform
 
-**Technologies:** Next.js, React, JavaScript, Python, FastAPI, PostgreSQL, pgvector, Google Gemini, Sentence Transformers
+An adapted open-source Next.js commerce application. My verified maintenance work includes authentication debugging, route protection, Prisma and migration setup, category data fixes, seed and environment hygiene, and removal of an exposed database route.
 
-- [Case Study](https://my-portfolio-website-plum-theta.vercel.app/work/adaptive-ai-learning-companion)
-- [Source Code](https://github.com/ubaidullah-ctrl/adaptive-learning-companion)
+`Next.js 14` `TypeScript` `NextAuth` `Prisma` `MySQL` `Zustand`
 
-### AI-Assisted Job Board
+[View case study](https://my-portfolio-website-plum-theta.vercel.app/work/full-stack-ecommerce-platform) · [View source](https://github.com/ubaidullah-ctrl/full-stack-ecommerce-platform)
 
-A job-discovery platform with search, filtering, candidate preferences, saved jobs, and AI-assisted recommendations.
+### 04 · AI Link Summarizer
 
-My work includes React and TypeScript interfaces, Python and FastAPI REST endpoints, PostgreSQL-backed workflows, request validation, error handling, and complete loading, empty, success, and failure states.
+An adapted Next.js article summarizer with URL validation, request-state handling, error feedback, local history, and a server-side proxy that keeps the third-party API credential out of the browser.
 
-**Technologies:** React, TypeScript, Python, FastAPI, PostgreSQL, REST APIs
+`Next.js 14` `JavaScript` `React` `Redux Toolkit` `RTK Query` `RapidAPI`
 
-- [Case Study](https://my-portfolio-website-plum-theta.vercel.app/work/ai-assisted-job-board)
+[View case study](https://my-portfolio-website-plum-theta.vercel.app/work/ai-link-summarizer) · [View source](https://github.com/ubaidullah-ctrl/ai-link-summarizer)
 
-### Full-Stack E-commerce Platform
+## Independent backend evidence
 
-An adaptation of an open-source commerce application with authentication, product discovery, search, cart, wishlist, checkout, order handling, and administration workflows. The repository README documents the upstream project and the changes made in this copy.
+**FastAPI Service Demo** — a standalone REST API demonstrating typed validation, layered service and repository boundaries, filtering, pagination, correlation IDs, automated tests, CI, and Docker packaging.
 
-**Technologies:** Next.js 14, TypeScript, React, Tailwind CSS, NextAuth, Prisma, MySQL, Zustand, Express
+`Python` `FastAPI` `Pydantic` `pytest` `Ruff` `Docker` `GitHub Actions`
 
-- [Case Study](https://my-portfolio-website-plum-theta.vercel.app/work/full-stack-ecommerce-platform)
-- [Source Code](https://github.com/ubaidullah-ctrl/full-stack-ecommerce-platform)
+[View source](https://github.com/ubaidullah-ctrl/fastapi-service-demo)
 
-### AI Link Summarizer
+## Technical foundation
 
-A responsive application that accepts article URLs and produces concise AI-generated summaries with validation, request-state handling, error feedback, and local summary history. This is an adapted project; attribution and my changes are documented in its README.
-
-**Technologies:** Next.js 14, JavaScript, React, Redux Toolkit, RTK Query, Tailwind CSS, RapidAPI
-
-- [Case Study](https://my-portfolio-website-plum-theta.vercel.app/work/ai-link-summarizer)
-- [Source Code](https://github.com/ubaidullah-ctrl/ai-link-summarizer)
-
-### FastAPI Service Demo
-
-An independent REST API demonstrating typed validation, layered service and repository boundaries, filtering, pagination, correlation IDs, automated tests, CI, and Docker packaging.
-
-**Technologies:** Python, FastAPI, Pydantic, pytest, Ruff, Docker, GitHub Actions
-
-- [Source Code](https://github.com/ubaidullah-ctrl/fastapi-service-demo)
-
-## Engineering Interests
-
-- Full-stack product development
-- API and database design
-- Python and FastAPI backend services
-- Applied AI features
-- Retrieval-Augmented Generation
-- Developer tools
-- Cloud application fundamentals
+| Frontend | Backend | Data and AI | Delivery |
+| --- | --- | --- | --- |
+| React, TypeScript, Next.js, JavaScript, HTML, CSS, Tailwind CSS | Python, FastAPI, REST APIs | PostgreSQL, SQL, pgvector, embeddings, vector search, semantic verification | Git, GitHub, Postman, Docker fundamentals, AWS fundamentals |
 
 ## Contact
 
-- [Portfolio](https://my-portfolio-website-plum-theta.vercel.app/)
+For software engineering, full-stack, frontend, backend, or AI-application opportunities:
+
+- [Portfolio Website](https://my-portfolio-website-plum-theta.vercel.app/)
 - [LinkedIn](https://www.linkedin.com/in/ubaid-ullah-/)
 - [Email](mailto:ubaidullah3048@gmail.com)
