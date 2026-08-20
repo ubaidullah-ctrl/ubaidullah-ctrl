@@ -45,15 +45,15 @@ An anonymised professional case study covering job discovery, filters, candidate
 
 ### 03 · Full-Stack E-commerce Platform
 
-An adapted open-source Next.js commerce application. My verified maintenance work includes authentication debugging, route protection, Prisma and migration setup, category data fixes, seed and environment hygiene, and removal of an exposed database route.
+An end-to-end electronics e-commerce web application featuring product discovery, NextAuth authentication, persistent cart and wishlist state with Zustand, Prisma ORM, MySQL, and a dedicated administrative dashboard for inventory and order management.
 
-`Next.js 14` `TypeScript` `NextAuth` `Prisma` `MySQL` `Zustand`
+`Next.js 14` `TypeScript` `NextAuth` `Prisma` `MySQL` `Express` `Zustand`
 
 [View case study](https://my-portfolio-website-plum-theta.vercel.app/work/full-stack-ecommerce-platform) · [View source](https://github.com/ubaidullah-ctrl/full-stack-ecommerce-platform)
 
 ### 04 · AI Link Summarizer
 
-An adapted Next.js article summarizer with URL validation, request-state handling, error feedback, local history, and a server-side proxy that keeps the third-party API credential out of the browser.
+An AI-powered article summarization web app featuring server-side RapidAPI proxying for credential protection, client and server-side URL validation, Redux Toolkit Query state management, and local browser history persistence.
 
 `Next.js 14` `JavaScript` `React` `Redux Toolkit` `RTK Query` `RapidAPI`
 
